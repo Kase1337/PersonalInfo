@@ -4,12 +4,12 @@ class Program {
   public static void Main (string[] args) 
   {
     //hardcoded personal information variables
-    var dateOfBirth = "6/24/1992"; 
-    var workID = "work 000-000-0101"; 
-    var cellPhoneNumbers = "cell 000-000-0189";
+    var dateOfBirth = "8/15/1978"; 
+    var workID = "work 000-111-0101"; 
+    var cellPhoneNumbers = "cell 000-111-0189";
 
     //Print the information to console
-    Console.WriteLine(ConcatName("Lucinda", "Potter"));
+    Console.WriteLine(ConcatName("John", "Smith"));
     Console.WriteLine(dateOfBirth); 
     Console.WriteLine(workID); 
     Console.WriteLine(cellPhoneNumbers); 
