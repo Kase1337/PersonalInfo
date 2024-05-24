@@ -5,8 +5,8 @@ class Program {
   {
     //hardcoded personal information variables
     var dateOfBirth = "6/24/1992"; 
-    var workID = "000-000-0101"; 
-    var cellPhoneNumbers = "000-000-0189";
+    var workID = "work 000-000-0101"; 
+    var cellPhoneNumbers = "cell 000-000-0189";
 
     //Print the information to console
     Console.WriteLine(ConcatName("Lucinda", "Potter"));
